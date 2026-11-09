@@ -1,6 +1,11 @@
 # Certifications
+## Certified Kubernetes Administrator | Cloud Native Computing Foundation
+- Earned: November 2026
 
-## [Certification name] | [Issuing organization]
-- Earned: [Month YYYY]
-- Expires: [Month YYYY or Never]
-- Credential ID or verification URL: [Optional]
+## AWS Certified Developer - Associate | Amazon Web Services
+- Earned: 2017
+
+## Certified Scrum Master | Alluvial Consulting
+- Earned: 2016
+- Location: Victoria, BC
+

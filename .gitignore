@@ -1,2 +1,6 @@
 # Generated resumes, PDFs, and fit assessments
 /output/
+
+# Don't cache development environment files
+.devenv/
+

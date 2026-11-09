@@ -1,37 +1,37 @@
 # [Full Name]
 
-[City, Region] | [Email] | [Phone] | [LinkedIn] | [Portfolio]
+[Phone] | [Email] | [City, Region]
 
-## Professional Summary
+<!-- Include only supplied contact fields. Use city and region only; never include a street address. -->
 
-[A concise, evidence-based summary aligned to the target role. Omit if the source material does not support one.]
+## PROFESSIONAL SUMMARY
 
-## Skills
+[A concise, evidence-based summary aligned to the target role. Use a warm, direct voice; omit if the source material does not support one.]
 
-[Relevant skills grouped for quick scanning.]
+## CORE STRENGTHS
 
-## Experience
+[Three or four concise, evidence-based strengths.]
 
-### [Job Title] | [Organization] | [Location]
+## TECHNICAL SKILLS
 
-[Month YYYY - Month YYYY]
+[Relevant skills grouped by category for quick scanning.]
 
-- [Action, scope, and substantiated outcome.]
+## CAREER EXPERIENCE
 
-## Projects
+### [Organization] | [Job Title]
+
+*[Location] | [Month YYYY - Month YYYY]*
+[Brief role context and scope.]
+- [Responsibility, collaboration, or leadership contribution.]
+
+## SELECTED PROJECTS
 
 ### [Project Name]
 
-- [Relevant contribution and substantiated outcome.]
+- [Relevant implementation and substantiated outcome.]
 
-## Education
+## QUALIFICATIONS
 
-### [Credential] | [Institution]
-
-[Year or date range]
-
-## Certifications
-
-- [Certification] | [Issuer] | [Year]
+- [Credential or certification] | [Institution or issuer] | [Year]
 
 <!-- Optional tailoring input: a job description may be supplied separately. Use it to prioritize relevant evidence, but never render it in the resume. -->
