@@ -1,5 +1,15 @@
-  {
-    "name": "worker-name",
+{
+    "name": "about-me",
     "compatibility_date": "2026-11-17",
-    "main": "src/index.ts"
+    "compatibility_flags": ["nodejs_compat"],
+    "main": "src/index.ts",
+    "rules": [
+      {
+        "type": "Text",
+        "globs": [
+          "../../profile/*.md"
+        ],
+        "fallthrough": true
+      }
+    ]
   }
