@@ -2,7 +2,8 @@
   "name": "mcp_server",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "src/index.ts",
+  "packageManager": "pnpm@12.9.0",
   "scripts": {
     "inspector": "npx @modelcontextprotocol/inspector",
     "dev": "npx wrangler dev"
