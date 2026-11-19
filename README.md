@@ -2,6 +2,10 @@
 
 This repo is used to assist with builing an applicable resume. I've added my skills, experience and eduction in a `profile/` folder and added some skills to help assess fitment for a role and produce a decent 'first draft' of a resume for a role.
 
+## MCP
+
+Publicly available at https://mcp.thebarry.net/mcp
+
 ## Workflows
 
 Ask the agent to use the relevant skill in `.agents/skills/`:
